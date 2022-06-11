@@ -6,6 +6,6 @@ string name;
 string SchoolName;
 
 
-string RollNo;
+string RollNo="20"
 
 }
