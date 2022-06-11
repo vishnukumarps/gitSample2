@@ -5,4 +5,7 @@ string name;
 
 string SchoolName;
 
+
+string RollNo;
+
 }
